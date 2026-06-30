@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR4d0054/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0054_WYG_001-1a, image: WYG1098/WYG1098-0347c.png}
+body:
+  text: 元豐類藳卷一宋曾鞏撰
+  hash: sha256:8f9bbeeec021adb2c161667efde9628e59b0a24ded78c7ff3200224e66c74d33
+metadata:
+  title: 南豐先生元豐類蒿
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 09:07:16.974930'
+  source:
+    repository: kanripo
+    path: KR4d0054/KR4d0054_000.txt
+hash: sha256:351d242a878ce15cdf500af5ed67e10595b11788a38bdf5f09eee16414777f65
