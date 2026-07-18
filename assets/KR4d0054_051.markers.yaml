@@ -1905,6 +1905,7 @@ markers:
   - {type: substitution, offset: 4579, original: 楽, replacement: 樂, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20631}}
   - {type: punctuation, offset: 4581, content: (, id: KR4d0054_krp_051-bkkpn1}
   - {type: variant, offset: 4581, length: 1, content: 又, WYG: 縣}
+  - {type: voice, offset: 4581, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 4582, content: ), id: KR4d0054_krp_051-bkkpn2}
   - {type: variant, offset: 4586, length: 1, content: 岀, WYG: 出}
   - {type: substitution, offset: 4586, original: 岀, replacement: 出, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19478}}
@@ -3412,4 +3413,4 @@ markers:
 
       ', id: KR4d0054_krp_051-bkkkrnewl435}
   back: []
-hash: sha256:54ffcb4ac373fa6bd4a4c1670eeda1b2deae75d19d7b026633587fdd7a81dcfa
+hash: sha256:5e00fe6285601e96daa699a0b2f815fd791c7cc29fbd0b6e2a8324ff89f89f34

@@ -1030,6 +1030,7 @@ markers:
   - {type: substitution, offset: 2377, original: 誌, replacement: 志, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16470}}
   - {type: punctuation, offset: 2379, content: (, id: KR4d0054_krp_046-bkkpn1}
   - {type: variant, offset: 2379, length: 4, content: 用石本校, WYG: ''}
+  - {type: voice, offset: 2379, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 2381, content: /, id: KR4d0054_krp_046-bkkpn2}
   - {type: punctuation, offset: 2383, content: ), id: KR4d0054_krp_046-bkkpn3}
   - {type: 'kr:newline', offset: 2383, content: '
@@ -2544,4 +2545,4 @@ markers:
 
       ', id: KR4d0054_krp_046-bkkkrnewl330}
   back: []
-hash: sha256:13ea87f4b4bb5099006362bdae85b5c859393242443ce7921014ce32470f3eee
+hash: sha256:c787d24d3a0016a2821bab6f98e14725def85b9e6df3cd2d5e594df0af589b49

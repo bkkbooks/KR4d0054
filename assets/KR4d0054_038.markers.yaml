@@ -283,6 +283,7 @@ markers:
   - {type: variant, offset: 606, length: 1, content: 祭, SBCK: 􅀕}
   - {type: punctuation, offset: 611, content: (, id: KR4d0054_krp_038-bkkpn1}
   - {type: substitution, offset: 611, original: 熈, replacement: 熙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17668}}
+  - {type: voice, offset: 611, length: 8, name: note, id: n1}
   - {type: variant, offset: 612, length: 1, content: 寕, WYG: 寧}
   - {type: substitution, offset: 612, original: 寕, replacement: 寧, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16282}}
   - {type: punctuation, offset: 619, content: ), id: KR4d0054_krp_038-bkkpn2}
@@ -446,6 +447,7 @@ markers:
   - {type: punctuation, offset: 979, content: (, id: KR4d0054_krp_038-bkkpn3}
   - {type: variant, offset: 979, length: 10, content: 熈寕十年十月二十一日, WYG: ''}
   - {type: substitution, offset: 979, original: 熈, replacement: 熙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17668}}
+  - {type: voice, offset: 979, length: 10, name: note, id: n2}
   - {type: substitution, offset: 980, original: 寕, replacement: 寧, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16282}}
   - {type: punctuation, offset: 989, content: ), id: KR4d0054_krp_038-bkkpn4}
   - {type: 'kr:newline', offset: 989, content: '
@@ -540,6 +542,7 @@ markers:
       ', id: KR4d0054_krp_038-bkkkrnewl69}
   - {type: line-break, offset: 1172, content: '', id: KR4d0054_SBCK_038-3b10}
   - {type: punctuation, offset: 1178, content: (, id: KR4d0054_krp_038-bkkpn5}
+  - {type: voice, offset: 1178, length: 4, name: note, id: n3}
   - {type: punctuation, offset: 1180, content: /, id: KR4d0054_krp_038-bkkpn6}
   - {type: punctuation, offset: 1182, content: ), id: KR4d0054_krp_038-bkkpn7}
   - {type: variant, offset: 1182, length: 1, content: 扵, WYG: 於}
@@ -697,6 +700,7 @@ markers:
   - {type: substitution, offset: 1508, original: 晁, replacement: 朝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19766}}
   - {type: punctuation, offset: 1511, content: (, id: KR4d0054_krp_038-bkkpn8}
   - {type: variant, offset: 1511, length: 9, content: 治平元年五月三十日, WYG: ''}
+  - {type: voice, offset: 1511, length: 9, name: note, id: n4}
   - {type: punctuation, offset: 1520, content: ), id: KR4d0054_krp_038-bkkpn9}
   - {type: 'kr:newline', offset: 1520, content: '
 
@@ -1713,4 +1717,4 @@ markers:
 
       ', id: KR4d0054_krp_038-bkkkrnewl214}
   back: []
-hash: sha256:903d784466e7f06b1c2069c5f0564320328fde7059dddea7f29eaa186aaf9719
+hash: sha256:732d3ee2d5df6ade3c9ebc4cbf2650efada65f1bd9595439d9abf6df43d74da7
